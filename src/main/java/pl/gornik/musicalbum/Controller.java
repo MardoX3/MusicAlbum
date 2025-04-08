@@ -80,9 +80,8 @@ public class Controller implements Initializable {
     //nazwa funkcji: GetAlbum
     //opis funkcji: Funkcja pobiera i wyswietla odpowiednie dane wzgledem indeksu
     //parametry index - żadany do wyswietlenia index albumu
-    //
-    //
-
+    //zwracany typ i opis: brak
+    //autor: Wiktor Przyłucki
     //**************************************************
     private void getAlbum(int index){
         txtAlbum.setText(albumList.get(index).getArtist());
