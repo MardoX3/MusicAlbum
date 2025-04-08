@@ -26,7 +26,7 @@
             <Font size="16.0" />
          </font>
       </Label>
-      <Label fx:id="Txttitle" layoutX="311.0" layoutY="14.0" text="Gorillaz" textFill="WHITE">
+      <Label fx:id="TxtTitle" layoutX="311.0" layoutY="14.0" text="Gorillaz" textFill="WHITE">
          <font>
             <Font size="50.0" />
          </font>
@@ -36,7 +36,7 @@
             <Font name="System Italic" size="30.0" />
          </font>
       </Label>
-      <Label fx:id="txtdate" layoutX="453.0" layoutY="150.0" text="2018" textFill="#61d918">
+      <Label fx:id="txtDate" layoutX="453.0" layoutY="150.0" text="2018" textFill="#61d918">
          <font>
             <Font size="20.0" />
          </font>

@@ -35,6 +35,10 @@ public class MusicAlbum {
         return number;
     }
 
+    public long incrementDownload(){
+        return ++number;
+    }
+
     @Override
     public String toString() {
         return "MusicAlbumManager{" +
@@ -45,4 +49,6 @@ public class MusicAlbum {
                 ", number=" + number +
                 '}';
     }
+
+
 }
